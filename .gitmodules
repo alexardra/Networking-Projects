@@ -1,0 +1,9 @@
+[submodule "Firewall"]
+	path = Firewall
+	url = https://github.com/alexardra/Firewall
+[submodule "Http-Server"]
+	path = Http-Server
+	url = https://github.com/alexardra/Http-Server
+[submodule "DNS-Server"]
+	path = DNS-Server
+	url = https://github.com/alexardra/DNS-Server
